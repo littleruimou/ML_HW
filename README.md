@@ -1,2 +1,2 @@
 # ML_HW
-Machine Learing HomeworK
+Machine Learing Homework
