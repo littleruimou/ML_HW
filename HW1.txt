@@ -1,0 +1,32 @@
+GitHub account：https://github.com/littleruimou
+
+“What” will be your final project: the scenario(情境)
+Group members: 1~4
+Ex. Game auto played by your ML
+機器學習益智小遊戲
+
+Find some definitions about AI and machine learning
+
+AI：
+人工智慧 (AI) 指的是能模仿人類的智慧執行任務的系統或機器，可以根據所收集的資訊不斷自我調整、進化。
+人工智慧的四個主要組成部分：
+專家系統、啟發式問題解決、自然語言處理、計算機視覺
+人工智慧的研究是高度技術性和專業的，各分支領域都是深入且各不相通的，因而涉及範圍極廣。
+人工智慧的研究可以分為幾個技術問題。其分支領域主要集中在解決具體問題，其中之一是，如何使用各種不同的工具完成特定的應用程式。
+
+machine learning：
+機器學習是人工智慧的一個分支。
+機器學習( Machine Learning = ML)是透過演算法將收集到的資料進行分類或預測模型訓練，在未來中，當得到新的資料時，可以透過訓練出的模型進行預測 ，如果這些效能評估可以透過利用過往資料來提升的話，就叫機器學習。
+機器學習已廣泛應用於資料探勘、電腦視覺、自然語言處理、生物特徵辨識、搜尋引擎、醫學診斷、檢測信用卡欺詐、證券市場分析、DNA序列定序、語音和手寫辨識、戰略遊戲和機器人等領域。
+
+Name some supervised classifiers:
+決策樹、邏輯迴歸、SVM（支援向量機）、樸素貝葉斯、kNN
+
+Name some unsupervised classifiers:
+k-平均演算法、混合模型、階層式分群
+
+Name some supervised ML models:
+人工神經網路、決策樹學習、最近鄰居法、支持向量機、隨機森林、學習自動機
+
+Name some unsupervised ML models:
+赫布學習、生成對抗網路、自組織對映
